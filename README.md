@@ -12,7 +12,7 @@ You know what, When I write code, only God and I understood what I did. Now only
 
 <h2>What can i do?</h2>
 <ul>
-  <li>I’m Full Time PHP developer. </li>
+  <li>I’m Full Time PHP & WordPress developer. </li>
   <li>Learning Next JS and Typescript to enhance my skillset. </li>
   <li>My strength in rapid responsive Designing. </li>
   <li>I can design amazing layout using Bulma, BootStrap, tailwind Styled Componenets Sass.</li>
