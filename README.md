@@ -1,9 +1,7 @@
 
-
-
-<table frame="box">
-  <tr>
-    <td><h3>Hello World! 👋 </h3>
+<table border="0">
+  <tr border="0">
+    <td border="0"><h3>Hello World! 👋 </h3>
       <p> I am a highly skilled professional developer who loves to take on the challenges and then solve them. And a passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.</p>
     </td>
     <td><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMquZsMwF42qAgLw_LgHOyvqjAPcU6YWR2gvBSI26AVVpxSiHxe6puc6irxIz-WNwDRt5HlvfUA7ejJDnFh4NxE7Uq2zxlcU9rjEfjn0SIkHucJt38hqWkvwYbe7SM244ItFza000g4JCYhsgiATIkowmTTuIReFRJbw5GZwi72N4vZU0r11une7z/s1600/ezgif.com-gif-maker.gif" width="300px"/></td>
