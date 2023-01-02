@@ -2,6 +2,8 @@ Hello World! 👋
 
 You know what, When I write code, only God and I understood what I did. Now only God knows.
 
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="200px"/>
+
 <h2>My Work Experience:</h2>
 <ul>
   <li>I built sites for Giftsara, JetLife, Charming Yatra, Red Coral, etc... </li>
