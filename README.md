@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Web Developer from Delhi, India** with 5+ years of experience building clean, responsive, and production-ready web applications — from database and API design to polished, user-friendly frontends.
+I'm a **Full Stack Web Developer from Delhi, India** with 6+ years of experience building clean, responsive, and production-ready web applications — from database and API design to polished, user-friendly frontends.
 
 - 🔭 I build full-stack products with **Python, PHP, JavaScript / TypeScript and the MERN stack (MongoDB, Express, React, Node.js)**
 - 📱 I also work with **Java for Android**, and **C, C++ and C#**
